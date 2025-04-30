@@ -44,6 +44,14 @@ Install vs code
 
 
 
+Creating Github account
+![image](https://github.com/user-attachments/assets/afe3e648-ba09-4799-bee9-0036cda3eb2b
+
+Creating AWS account
+![image](https://github.com/user-attachments/assets/b14330c2-098b-4d9e-aa7a-32169c6b0e1c)
+
+![image](https://github.com/user-attachments/assets/aff9c6c5-15ec-42fa-a0b6-b96d7555a47a)
+
 
 
     

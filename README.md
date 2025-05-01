@@ -15,6 +15,7 @@ Install vs code
 # Git
 
 - Download GIT and install
+- 
   ![image](https://github.com/user-attachments/assets/e4d957fa-f116-4a4a-953c-40959e24219b)
 
   ![image](https://github.com/user-attachments/assets/21b477a7-531f-4320-b71a-c92d0e606908)
@@ -33,19 +34,33 @@ Install vs code
     ![image](https://github.com/user-attachments/assets/e21c658d-25db-4d6b-9565-f4cdb14a5f50)
 
     ![image](https://github.com/user-attachments/assets/8e27b4f2-4874-451b-bab7-1a42fc3a7d9b)
+    
 
-# Ubuntu
+#  Ubuntu
 
-    ![image](https://github.com/user-attachments/assets/2f26483b-9a14-4192-9599-137c73722e7b)
+  ![image](https://github.com/user-attachments/assets/2f26483b-9a14-4192-9599-137c73722e7b)
 
-    ![image](https://github.com/user-attachments/assets/ba9ac491-8c29-483a-9ccc-6bf15ae8bc64)
+  ![image](https://github.com/user-attachments/assets/ba9ac491-8c29-483a-9ccc-6bf15ae8bc64)
 
-    ![image](https://github.com/user-attachments/assets/bc2b2fd4-20e8-46ce-acd9-45a70605358a)
+  ![image](https://github.com/user-attachments/assets/bc2b2fd4-20e8-46ce-acd9-45a70605358a)
+
+  ![image](https://github.com/user-attachments/assets/378e1394-04ab-4455-9724-e148ffe02b2f)
+
+  ![image](https://github.com/user-attachments/assets/5b1842da-21f5-4694-8f36-3bcc82c08666)
 
 
 
-Creating Github account
-![image](https://github.com/user-attachments/assets/afe3e648-ba09-4799-bee9-0036cda3eb2b
+
+
+
+- Creating Github account
+
+![image](https://github.com/user-attachments/assets/59861877-b0e0-427f-b243-b864e0cce3fe)
+
+![image](https://github.com/user-attachments/assets/2f515fbe-dee5-4d13-bd53-d4beb5095ee9)
+
+![image](https://github.com/user-attachments/assets/f412e067-4283-4050-985a-9fc27c7dfcaf)
+
 
 Creating AWS account
 ![image](https://github.com/user-attachments/assets/b14330c2-098b-4d9e-aa7a-32169c6b0e1c)
